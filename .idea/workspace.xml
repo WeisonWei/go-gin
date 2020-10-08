@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12c92083-f9c3-456e-873c-59cba139c57b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1ib9eNX0UR6Nm4tbZUbWmdbONwz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ucenter1/ucenter" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build ucenter" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ucenter" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="ucenter" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build ucenter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12c92083-f9c3-456e-873c-59cba139c57b" name="Default Changelist" comment="" />
+      <created>1602165518495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602165518495</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.io" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="111" width="444" height="687" key="#GOPATH" timestamp="1602166741635">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="515" y="111" width="444" height="687" key="#GOPATH/0.0.1440.900@0.0.1440.900" timestamp="1602166741635" />
+    <state x="599" y="310" width="712" height="197" key="EnvironmentVariablesDialog" timestamp="1602167550389">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="599" y="310" width="712" height="197" key="EnvironmentVariablesDialog/0.0.1440.900@0.0.1440.900" timestamp="1602167550388" />
+    <state x="525" y="207" key="FileChooserDialogImpl" timestamp="1602169351809">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="525" y="207" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1602169351809" />
+    <state width="1394" height="224" key="GridCell.Tab.0.bottom" timestamp="1602174665091">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1394" height="224" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602174665091" />
+    <state width="1394" height="224" key="GridCell.Tab.0.center" timestamp="1602174665090">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1394" height="224" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602174665090" />
+    <state width="1394" height="224" key="GridCell.Tab.0.left" timestamp="1602174665090">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1394" height="224" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602174665090" />
+    <state width="1394" height="224" key="GridCell.Tab.0.right" timestamp="1602174665091">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1394" height="224" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602174665091" />
+    <state x="251" y="80" key="SettingsEditor" timestamp="1602167903398">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="251" y="80" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602167903398" />
+  </component>
+</project>
